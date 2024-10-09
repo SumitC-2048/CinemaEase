@@ -1,2 +1,2 @@
 # CinemaEase
-The Cpp Projects integration with MySql
+The Cpp Project integration with MySql
